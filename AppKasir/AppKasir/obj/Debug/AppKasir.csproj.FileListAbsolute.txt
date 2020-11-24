@@ -1,0 +1,14 @@
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.csprojAssemblyReference.cache
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormLogin.resources
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormMenuUtama.resources
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterKasir.resources
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormMasterBarang.resources
+D:\XI\KK3\Code\Kasir\AppKasir\AppKasir\obj\Debug\AppKasir.FormUtilityAbout.resources
